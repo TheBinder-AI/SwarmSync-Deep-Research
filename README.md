@@ -3,9 +3,14 @@
 <div align="center">
   <img src="/public/logo.png" alt="SwarmSync Logo" width="800"/>
 </div>
----
+
+
 
 SwarmSync Deep Research is a powerful, AI-driven platform designed to build your own deep research tools similar to ChatGPT, Perplexity, etc.
+
+## Overview
+
+![SwarmSync Deep Research Overview](public/presentation.gif)
 
 ## ✨ Key Features
 
@@ -17,8 +22,10 @@ SwarmSync Deep Research is a powerful, AI-driven platform designed to build your
 
 You need to create a `.env.local` file and add the necessary API keys.
 
+```bash
 OPENAI_API_KEY="Your OpenAI API Key"
 GOOGLE_GENERATIVE_AI_API_KEY="Your Gemini API Key"
+```
 
 ## 🚀 How to Use
 
