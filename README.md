@@ -1,7 +1,7 @@
 <h1 align="center">SwarmSync - Deep Research</h1>
 
 <div align="center">
-  <img src="/public/logo.png" alt="SwarmSync Logo" width="300"/>
+  <img src="/public/logo.png" alt="SwarmSync Logo" width="800"/>
 </div>
 ---
 
