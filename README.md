@@ -1,9 +1,8 @@
-<div align="center">
-  <img src="/public/logo.png" alt="SwarmSync Logo" width="150"/>
-</div>
-
 <h1 align="center">SwarmSync - Deep Research</h1>
 
+<div align="center">
+  <img src="/public/logo.png" alt="SwarmSync Logo" width="300"/>
+</div>
 ---
 
 SwarmSync Deep Research is a powerful, AI-driven platform designed to build your own deep research tools similar to ChatGPT, Perplexity, etc.
