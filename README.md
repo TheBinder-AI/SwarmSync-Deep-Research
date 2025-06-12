@@ -13,6 +13,13 @@ SwarmSync Deep Research is a powerful, AI-driven platform designed to build your
 - **🧠 Multiple AI Models**: Use your own model Gemini, OpenAI, etc.
 - **💡 Example Prompts**: Get started quickly with curated example questions.
 
+## Setup
+
+You need to create a `.env.local` file and add the necessary API keys.
+
+OPENAI_API_KEY="Your OpenAI API Key"
+GOOGLE_GENERATIVE_AI_API_KEY="Your Gemini API Key"
+
 ## 🚀 How to Use
 
 1.  **Ask a question**: Type your research query into the input box.
